@@ -1,0 +1,1 @@
+This class echos back whatever was entered as user input but in all CAPS.  This application also takes an optional command line argument and checks to see if it matches user input.  It if does, lets the user know there was a match.  Application terminates if user leaves the input line blank.
