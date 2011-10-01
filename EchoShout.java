@@ -1,5 +1,5 @@
 /* Xiao G. Wu
- * CS111A - Inclass excersise on user input
+ * CS111A - Inclass exercise on user input
  * 09/26/2010
  */
 
